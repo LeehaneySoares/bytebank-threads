@@ -1,0 +1,1 @@
+export default 'https://economia.awesomeapi.com.br/json/last'
